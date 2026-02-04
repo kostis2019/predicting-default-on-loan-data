@@ -1,7 +1,7 @@
 ## Repository contents:
 
-### predicting-default-on-mortgage-data.ipynb:
+### predicting-default-on-loan-data.ipynb:
 python notebook (Logistic regression modelling)
 
-### predicting-default-on-mortgage-data.key:
-project overview (Keynote slides)
+### predicting-default-on-loan-data.pdf:
+project overview (slides)
