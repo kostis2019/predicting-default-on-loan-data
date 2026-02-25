@@ -2,3 +2,5 @@
 venv/
 __pycache__/
 .ipynb_checkpoints/
+risk_table.csv
+predicting_default_on_loan_data.key
